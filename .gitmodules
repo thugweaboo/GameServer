@@ -1,8 +1,8 @@
 [submodule "Content/LeagueSandbox-Default"]
 	path = Content/LeagueSandbox-Default
-	url = https://github.com/LeagueSandbox/LeagueSandbox-Default.git
+	url = https://github.com/thugweaboo/LeagueSandbox-Default.git
 	branch = indev
 [submodule "LeaguePackets"]
 	path = LeaguePackets
-	url = https://github.com/LeagueSandbox/LeaguePackets
+	url = https://github.com/thugweaboo/LeaguePackets.git
 	branch = master
