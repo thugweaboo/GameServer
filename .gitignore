@@ -312,4 +312,5 @@ GameServer/Settings/GameInfo.json
 GameServerConsole/Settings/GameInfo.json
 GameServerConsole/Settings/GameServerSettings.json
 MigrationBackup/
-/GameServerConsole/Settings/GameServerSettings.json.template
+GameServerConsole/Settings/GameServerSettings.json.template
+GameServerConsole/Settings/GameInfo.json.template
